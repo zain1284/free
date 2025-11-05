@@ -47,9 +47,7 @@
     "dragw64": 284,
     "aimbotexr64": 180,
     "aimbotexw64": 188,
-    "noti": "Dear User our panell fully zain x cheat",
-    "bot": ["28","E0","80","30"]
-     "AIMBOTBODYS1": "62 00 6F 00 6E 00 65 00 5F 00 53 00 70 00 69 00 6E 00 65 00",
+         "AIMBOTBODYS1": "62 00 6F 00 6E 00 65 00 5F 00 53 00 70 00 69 00 6E 00 65 00",
     "AIMBOTBODYR1": "62 00 6F 00 6E 00 65 00 5F 00 48 00 65 00 61 00 64 00 31 00",
  "AIMBOTBODYS2": "C2 C3 36 BD 66 8E 81 BB",
     "AIMBOTBODYR2": "0A D7 23 BD 66 8E 81 BB",
@@ -59,4 +57,6 @@
     "AIMBOTBODYR4": "89 2B A1 3D C0 34 7F 3F 00 00 C0 BF 00 00 C0 BF 00 00 C0 BF",
  "AIMBOTBODYS5": "CB 5F 13 BE BA 55 7D 3F 00 00 80 3F 00 00 80 3F 00 00 80 3F",
     "AIMBOTBODYR5": "CB 5F 13 BE BA 55 7D 3F 00 00 C0 BF 00 00 C0 BF 00 00 C0 BF",
+    "noti": "Dear User our panell fully zain x cheat",
+    "bot": ["28","E0","80","30"]
 }
